@@ -3,6 +3,8 @@
   <module2copyright>
    <element module="ALL" copyright="Apache 2 - Google" />
   </module2copyright>
-  <LanguageOptions>
+  <LanguageOptions name="__TEMPLATE__">
+   <optiom name="block" value="false" />
+  </LanguageOptions>
  </settings>
 </component>
